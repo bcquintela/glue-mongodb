@@ -1,8 +1,8 @@
-# Glue
+# Glue MongoDB
 
 This project uses [Quarkus](https://quarkus.io/), the Supersonic Subatomic Java Framework.
 
-It is used to demonstrate a connection between a REST API developed in Quarkus and MongoDB.
+This is used to demonstrate a connection between a REST API developed in Quarkus and MongoDB.
 
 ## Running the application in dev mode
 
